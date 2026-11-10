@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,github,git,kubernetes,docker,vim,vscode,visualstudio,androidstudio,arduino,unity,supabase,bun,npm,pnpm,fastapi,postman,figma,obsidian" />
   </a>
 </p>
 
