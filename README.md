@@ -34,23 +34,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch" />
-    <img src="https://skillsicons.dev/icons?i=linux" />
-    <img src="https://skillsicons.dev/icons?i=git" />
-    <img src="https://skillsicons.dev/icons?i=github" />
-    <img src="https://skillsicons.dev/icons?i=docker" />
-    <img src="https://skillsicons.dev/icons?i=vim" />
-    <img src="https://skillsicons.dev/icons?i=vscode" />
-    <img src="https://skillsicons.dev/icons?i=androidstudio" />
-    <img src="https://skillsicons.dev/icons?i=visualstudio" />
-    <img src="https://skillsicons.dev/icons?i=bun" />
-    <img src="https://skillsicons.dev/icons?i=npm" />
-    <img src="https://skillsicons.dev/icons?i=pnpm" />
-    <img src="https://skillsicons.dev/icons?i=postman" />
-    <img src="https://skillsicons.dev/icons?i=fastapi" />
-    <img src="https://skillsicons.dev/icons?i=supabase" />
-    <img src="https://skillsicons.dev/icons?i=obsidian" />
-    <img src="https://skillsicons.dev/icons?i=figma" />
-
+  </a>
+  <a>
+     <img src="https://skillsicons.dev/icons?i=linux" />
+    
   </a>
 </p>
 
