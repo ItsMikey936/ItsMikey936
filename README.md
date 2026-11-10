@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch, linux, github, git,kubernetes,docker,vim, androidstudio, bun, npm, pnpm, postman, fastapi, supabase, figma, obsidian" />
+    <img src="https://skillicons.dev/icons?i=arch" />
   </a>
 </p>
 
