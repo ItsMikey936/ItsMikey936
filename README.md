@@ -34,6 +34,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch" />
+    <img src="https://skillsicons.dev/icons?i=linux, github" />
   </a>
 </p>
 
