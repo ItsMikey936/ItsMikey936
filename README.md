@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=arch" />
   </a>
   <a>
-     <img src="https://skillsicons.dev/icons?i=linux" />
+     <img src="https://skillsicons.dev/icons?i=git" />
     
   </a>
 </p>
