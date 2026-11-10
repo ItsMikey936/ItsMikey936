@@ -31,7 +31,7 @@
 
 #### 🔧 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,figma&theme=light)](https://skillicons.dev)
 
 ## 📊 Profile Statistics
 
