@@ -31,15 +31,7 @@
 
 #### 🔧 Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch" />
-  </a>
-  <a>
-     <img src="https://skillsicons.dev/icons?i=git" />
-    
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## 📊 Profile Statistics
 
